@@ -9,10 +9,13 @@ This repository contains Python scripts for analyzing student performance data f
 
 2. Categorizing Students: Each CSV file is split into multiple categories based on CodeKata scores.
 
-Exceeded Expectations.csv: CodeKata score > 15000
-Reached Expectations.csv: 10000 < CodeKata score < 15000
-Needs Improvement.csv: 7000 < CodeKata score < 10000
-Unsatisfactory.csv: CodeKata score < 7000
+    Exceeded Expectations.csv: CodeKata score > 15000
+
+    Reached Expectations.csv: 10000 < CodeKata score < 15000
+
+    Needs Improvement.csv: 7000 < CodeKata score < 10000
+
+    Unsatisfactory.csv: CodeKata score < 7000
 
 3. Comparing Previous and Current Performance: Calculates the average of previous week's Geekions versus current week's CodeKata scores.
 
